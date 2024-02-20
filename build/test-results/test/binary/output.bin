@@ -1,0 +1,49 @@
+Request method:	POST
+2Request URI:	https://petstore.swagger.io/v2/user
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		api_key=1234
+				Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "id": 9026860,
+2    "username": "XWdKtzgwjfASiaHCzWphXeQUnRTrQz",
+3    "firstName": "hrvfrccfujHTYHpKXxfiEMTUWHzEUO",
+2    "lastName": "tZwFAaPwzafXNdJNCgBWzAkfvXseeR",
+#    "email": "mail0675@gmail.com",
+2    "password": "NYSdikqhakQVadCoKPYoiHncppzojD",
+/    "phone": "apcULegZCiucLJdKuEKlcdFPJiSUGa",
+    "userStatus": 4666293
+}
+Request method:	DELETE
+QRequest URI:	https://petstore.swagger.io/v2/user/XWdKtzgwjfASiaHCzWphXeQUnRTrQz
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		api_key=1234
+				Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Request method:	GET
+QRequest URI:	https://petstore.swagger.io/v2/user/XWdKtzgwjfASiaHCzWphXeQUnRTrQz
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		api_key=1234
+				Accept=*/*
+2				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
